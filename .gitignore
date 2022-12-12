@@ -1,0 +1,3 @@
+node_modules/
+target/debug
+target/wasm32-unknown-unknown
